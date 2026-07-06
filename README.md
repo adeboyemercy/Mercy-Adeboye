@@ -18,7 +18,7 @@ I am an aspiring Data Analyst with a passion for transforming data into meaninfu
 -Holiday sales analysis
 -Interactive Power BI Dashboard
 
-*more projects coming soon...*
+*More projects coming soon...*
 
 ## Currently Learning
 -SQL
