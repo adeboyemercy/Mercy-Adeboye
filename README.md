@@ -1,6 +1,6 @@
 # Hi, I'm Mercy Adeboye
 ## About Me 
-I Am an aspiring Data Analyst with a passion for transforming data into meaninful insights. I use Microsoft Excel and Power BI to analyze business problems and create interactive dashboards, and support data-driven decision-making.
+I am an aspiring Data Analyst with a passion for transforming data into meaninful insights. I use Microsoft Excel and Power BI to analyze business problems and create interactive dashboards, and support data-driven decision-making.
 
 ## Skills
 -Microsoft Excel
