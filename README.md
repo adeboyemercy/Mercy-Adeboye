@@ -8,13 +8,14 @@ I am an aspiring Data Analyst with a passion for transforming data into meaninfu
 -Data cleaning
 -Data Visualization
 -Pivot Tables 
--Dashboard Design Business Analysis
+-Dashboard Design
+-Business Analysis
 
 ## Projects
 ### Walmart Sales Analysis
 -Sales trend analysis
 -Store permormance dashboard
--Holiday salesanalysis
+-Holiday sales analysis
 -Interactive Power BI Dashboard
 
 *more projects coming soon...*
@@ -26,4 +27,4 @@ _Pyton for Data Analysis
 ## Contact
 Email: adeboyemercy77@gmail.com
 
-Thank you for visiting my Github profile!
+Thank you for visiting my Github profile! 
